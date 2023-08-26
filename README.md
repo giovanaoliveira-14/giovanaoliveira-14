@@ -1,5 +1,7 @@
 ### Oi! Eu sou Giovana Oliveira ᕙ(`▿´)ᕗ
 
+ <script src="https://kit.fontawesome.com/026675cdf7.js"crossorigin="anonymous"></script>
+
 - 🌱 Técnica em Desenvolvimento de Sistemas
 - 🤓 Estudante de Ciência da Computação
 - 😄 Pronouns: ela/dela
