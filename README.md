@@ -1,8 +1,20 @@
-### Oi! Eu sou Giovana Oliveira ᕙ(`▿´)ᕗ
+### Oie! Me chamo Giovana Oliveira ᕙ(`▿´)ᕗ
 
-- 🌱 Técnica em Desenvolvimento de Sistemas
-- 🤓 Estudante de Ciência da Computação
-- 😄 Pronouns: ela/dela
+-Entusiasta da tecnologia e da música 👩🏽‍💻🎶
+<br>
+-Sou estudante de Ciência da Computação 🤓
+<br>
+-Estagiária em Desenvolvimento Web  🚀
+<br>
+-Formada em Técnico em Desenvolvimento de Sistemas 👩🏽‍🎓
+<br>
+<br>
+🌟Amo programar e mergulhar em desafios de programação.
+<br>
+🌟Tenho um carinho especial por músicas, são minha fonte de inspiração.
+<br>
+🌟Para manter a energia alta durante as programações, não pode faltar um bom cafezinho!
+<br>
 
  <div>
   <a href="https://github.com/giovanaoliveira-14">
