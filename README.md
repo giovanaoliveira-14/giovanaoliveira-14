@@ -22,6 +22,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanaoliveira-14&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline-block">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" src="https://github.com/giovanaoliveira-14/giovanaoliveira-14/raw/master/icons/html.png">
+  <img align="center" src="https://github.com/giovanaoliveira-14/giovanaoliveira-14/raw/master/icons/css.png">
+  <img align="center" src="https://github.com/giovanaoliveira-14/giovanaoliveira-14/raw/master/icons/js.png">
+  <img align="center" src="https://github.com/giovanaoliveira-14/giovanaoliveira-14/raw/master/icons/php.png">
+  <img align="center" src="https://github.com/giovanaoliveira-14/giovanaoliveira-14/raw/master/icons/wordpress.png">
 </div>
