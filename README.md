@@ -1,19 +1,19 @@
 ### Oie! Me chamo Giovana Oliveira ᕙ(`▿´)ᕗ
 
--Entusiasta da tecnologia e da música 👩🏽‍💻🎶
+-Entusiasta da tecnologia, que adora história e um bom pagodinho 👩🏽‍💻🎶💃🏽
 <br>
 -Sou estudante de Ciência da Computação 🤓
 <br>
--Estagiária em Desenvolvimento Web  🚀
+-Estagiária em Desenvolvimento Web na Empresa Eficaz Marketing 🚀
 <br>
 -Formada em Técnico em Desenvolvimento de Sistemas 👩🏽‍🎓
 <br>
 <br>
 🌟Amo programar e mergulhar em desafios de programação.
 <br>
-🌟Tenho um carinho especial por músicas, são minha fonte de inspiração.
+🌟Adoro músicas! A vida com uma música de fundo tocando se torna tão mais divertida.
 <br>
-🌟Para manter a energia alta durante as programações, não pode faltar um bom cafezinho!
+🌟Para manter a energia alta durante as programações, não pode faltar um bom cafezinho !( com bastante açucar de preferência 😅😅) 
 <br>
 
  <div>
