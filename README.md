@@ -13,7 +13,7 @@
 <br>
 🌟Adoro músicas! A vida com uma música de fundo tocando se torna tão mais divertida. 🥰
 <br>
-🌟Para manter a energia alta durante as programações, não pode faltar um bom cafezinho !( com bastante açucar de preferência 😅😅) 
+🌟Para manter a energia em alta enquanto estou estudando ou trabalhando, não pode faltar um bom cafezinho ! ( com bastante açúcar de preferência 😅😅) 
 <br>
 
  <div>
