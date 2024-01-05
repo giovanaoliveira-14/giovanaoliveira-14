@@ -9,9 +9,9 @@
 -Formada em Técnico em Desenvolvimento de Sistemas 👩🏽‍🎓
 <br>
 <br>
-🌟Amo programar e mergulhar em desafios de programação.
+🌟Amo programar e mergulhar em desafios de programação. 🫡
 <br>
-🌟Adoro músicas! A vida com uma música de fundo tocando se torna tão mais divertida.
+🌟Adoro músicas! A vida com uma música de fundo tocando se torna tão mais divertida. 🥰
 <br>
 🌟Para manter a energia alta durante as programações, não pode faltar um bom cafezinho !( com bastante açucar de preferência 😅😅) 
 <br>
