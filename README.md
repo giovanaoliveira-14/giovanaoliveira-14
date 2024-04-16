@@ -4,7 +4,7 @@
 <br>
 -Sou estudante de Ciência da Computação 🤓
 <br>
--Estagiária em Desenvolvimento Web na Empresa Eficaz Marketing 🚀
+-Trainee em Desenvolvimento Web na Empresa Eficaz Marketing 🚀
 <br>
 -Formada em Técnico em Desenvolvimento de Sistemas 👩🏽‍🎓
 <br>
