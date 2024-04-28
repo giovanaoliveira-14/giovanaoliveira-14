@@ -16,10 +16,10 @@
 🌟Para manter a energia em alta enquanto estou estudando ou trabalhando, não pode faltar um bom cafezinho ! ( com bastante açúcar de preferência 😅😅) 
 <br>
 
- <div>
-  <a href="https://github.com/giovanaoliveira-14">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giovanaoliveira-14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanaoliveira-14&layout=compact&langs_count=7&theme=dracula"/>
+ <div style="display: flex">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giovanaoliveira-14&show_icons=true&theme=aura&include_all_commits=true&count_private=true" style="flex:1"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanaoliveira-14&layout=compact&langs_count=7&theme=aura" style="flex:1"/>
+  <img src="https://streak-stats.demolab.com/?user=giovanaoliveira-14&theme=aura" style="flex:1" width="36%" heigth="150px" />
 </div>
 <div style="display: inline-block">
   <img align="center" src="https://github.com/giovanaoliveira-14/giovanaoliveira-14/raw/master/icons/html.png">
@@ -27,9 +27,4 @@
   <img align="center" src="https://github.com/giovanaoliveira-14/giovanaoliveira-14/raw/master/icons/js.png">
   <img align="center" src="https://github.com/giovanaoliveira-14/giovanaoliveira-14/raw/master/icons/php.png">
   <img align="center" src="https://github.com/giovanaoliveira-14/giovanaoliveira-14/raw/master/icons/wordpress.png">
-</div>
-<div style="display: inline-block">
- <img src="https://github-readme-stats.vercel.app/api?username=giovanaoliveira-14&show_icons=true&theme=aura&include_all_commits=true&count_private=true" width="50%" />
- <img src="https://streak-stats.demolab.com/?user=giovanaoliveira-14&theme=aura" width="50%" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanaoliveira-14&theme=aura" width="50%" alt="Most Used Languages">
 </div>
