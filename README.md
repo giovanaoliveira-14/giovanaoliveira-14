@@ -19,7 +19,7 @@
  <div style="display: flex">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giovanaoliveira-14&show_icons=true&theme=aura&include_all_commits=true&count_private=true" style="flex:1"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanaoliveira-14&layout=compact&langs_count=7&theme=aura" style="flex:1"/>
-  <img src="https://streak-stats.demolab.com/?user=giovanaoliveira-14&theme=aura" style="flex:1" width="36%" heigth="150px" />
+  <img src="https://streak-stats.demolab.com/?user=giovanaoliveira-14&theme=aura" style="flex:1" width="50%" />
 </div>
 <div style="display: inline-block">
   <img align="center" src="https://github.com/giovanaoliveira-14/giovanaoliveira-14/raw/master/icons/html.png">
