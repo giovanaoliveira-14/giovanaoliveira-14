@@ -28,3 +28,8 @@
   <img align="center" src="https://github.com/giovanaoliveira-14/giovanaoliveira-14/raw/master/icons/php.png">
   <img align="center" src="https://github.com/giovanaoliveira-14/giovanaoliveira-14/raw/master/icons/wordpress.png">
 </div>
+<div style="display: inline-block">
+ <img src="https://github-readme-stats.vercel.app/api?username=giovanaoliveira-14&show_icons=true&theme=aura&include_all_commits=true&count_private=true" width="50%" />
+ <img src="https://streak-stats.demolab.com/?user=giovanaoliveira-14&theme=aura" width="50%" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanaoliveira-14&theme=aura" width="50%" alt="Most Used Languages">
+</div>
