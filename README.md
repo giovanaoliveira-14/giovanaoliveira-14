@@ -15,6 +15,7 @@
 <br>
 🌟Para manter a energia em alta enquanto estou estudando ou trabalhando, não pode faltar um bom cafezinho ! ( com bastante açúcar de preferência 😅😅) 
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=giovanaoliveira-14&color=blueviolet" alt="Profile views" /> </p>
 
  <div style="display: flex">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giovanaoliveira-14&show_icons=true&theme=aura&include_all_commits=true&count_private=true" style="flex:1"/>
