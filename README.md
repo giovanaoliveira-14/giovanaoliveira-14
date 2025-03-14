@@ -1,17 +1,14 @@
 ### Oie! Me chamo Giovana Oliveira ᕙ(`▿´)ᕗ
 
--Entusiasta da tecnologia, que adora história e um bom pagodinho 👩🏽‍💻🎶💃🏽
+ - Entusiasta da tecnologia, que adora história e um bom pagodinho 👩🏽‍💻🎶💃🏽
+ - Sou estudante de Ciência da Computação 🤓
+ - Formada em Técnico em Desenvolvimento de Sistemas 👩🏽‍🎓
+
+🌟 Amo programar e mergulhar em desafios de programação. 🫡
 <br>
--Sou estudante de Ciência da Computação 🤓
+🌟 A vida com uma música de fundo tocando se torna tão mais divertida. 🥰
 <br>
--Formada em Técnico em Desenvolvimento de Sistemas 👩🏽‍🎓
-<br>
-<br>
-🌟Amo programar e mergulhar em desafios de programação. 🫡
-<br>
-🌟Adoro músicas! A vida com uma música de fundo tocando se torna tão mais divertida. 🥰
-<br>
-🌟Para manter a energia em alta enquanto estou estudando ou trabalhando, não pode faltar um bom cafezinho ! ( com bastante açúcar de preferência 😅😅) 
+🌟 Para manter a energia em alta enquanto estou estudando ou trabalhando, não pode faltar um bom cafezinho! ( com bastante açúcar de preferência 😅😅) 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giovanaoliveira-14&color=blueviolet" alt="Profile views" /> </p>
 
